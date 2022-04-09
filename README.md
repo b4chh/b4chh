@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm bachir benzaoui</h1>
 <h3 align="center">A passionate about cyber security</h3>
 
-- 🌱 I’m currently learning **root-me, try-hack-me**
+- 🌱 I’m currently learning **root-me, try-hack-me, Hackthebox**
 
 - 📫 How to reach me **bachir.benzaoui92@gmail.com** or linkedin
 
