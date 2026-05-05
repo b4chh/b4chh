@@ -43,7 +43,7 @@ On the blue side: I read detections before I write payloads. It's just more inte
 - 🎯 **Threat Hunting** — Detecting hackers hiding inside a network before they cause damage
 - 🛡️ **Microsoft Defender In-Depth** — Mastering enterprise security tools to spot and stop attacks
 
-### 🛠️ Currently Building
+### 🛠️ In the Future 
 - 🎣 **Automated Phishing Infrastructure** — Evilginx-based, with auto-spinup, TLS, and reputation warming
 - 🔍 **Detection Engineering Lab** — Sigma + Sysmon + ELK pipeline to test my own implants against
 
@@ -56,21 +56,18 @@ On the blue side: I read detections before I write payloads. It's just more inte
 > *My commit graph is practicing OPSEC. Working on it — after this next box.* 🫠
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b4chh&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=b4chh&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41" alt="GitHub Streak" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4chh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="165" />
-</p>
 
 ---
 
 ### 🟢 HackTheBox
 
+
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/b4chh">
-    <img src="https://www.hackthebox.eu/badge/image/b4chh" alt="HackTheBox Profile" />
+  <a href="https://app.hackthebox.com/public/users/374739">
+     <img src="https://www.hackthebox.eu/badge/image/b4chh](https://dl.svgcdn.com/svg/simple-icons/hackthebox.svg" alt="HackTheBox Profile" />
   </a>
 </p>
 
@@ -80,9 +77,7 @@ On the blue side: I read detections before I write payloads. It's just more inte
 ### 🔵 TryHackMe
 
 <p align="center">
-  <a href="https://tryhackme.com/p/b4chh">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/b4chh.png" alt="TryHackMe Profile" />
-  </a>
+  <a href="https://tryhackme.com/p/bachh" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/bachh.png" alt="tryhackme stats"/></a>
 </p>
 
 ---
